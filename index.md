@@ -13,7 +13,6 @@
 <div id="header-image-menu">
 
 </div>
-</header>
 
 
 ## Introduction
