@@ -1,4 +1,5 @@
-# CyberDuck
+# CyberDuck <img src="https://user-images.githubusercontent.com/91332670/137805359-29b8978b-c4e1-4d63-80d2-6d1fd8989b9a.jpg" width="70" height="70" />
+
 
  <nav>
             <div>
@@ -16,7 +17,8 @@
 
 
 ## Introduction
-![imgbin-cyberduck-computer-icons-ssh-file-transfer-protocol-webdav-duck-E7cm63DqCFJSD8MPhV4EiMprc](https://user-images.githubusercontent.com/91332670/137804997-9fe9c637-0ffc-4a92-b026-2fbd622d3329.jpg)
+![Unknown-9](https://user-images.githubusercontent.com/91332670/137805319-67ab973d-829f-4b8f-b5a6-987f96dc7fb0.jpeg)
+
 
 ### What is CyberDuck?
 CyberDuck is a server and cloud storage browser for Mac and Windows. With this, you can easily access files and folders within any server, even secure shell connections (SSH). It is great for use with the student machine, especially if you are just starting to get familiar with command-line tools. CyberDuck creates a seamless transition between local files and server files, making it easy to copy, move, delete, and replace items.
