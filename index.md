@@ -1,4 +1,32 @@
-# How to Use CyberDuck ![Image of Yaktocat](https://images.app.goo.gl/srtJD3n524Lx5o158)
+
+<header>
+		
+<div id="top-header">
+		
+		Introduction | Set Up | Connecting to the Student Machine | Licensing | FAQ/Help
+<div id="logo">
+			<img src="images/logo.png" />
+</div>
+				
+		<!-- Navigation Menu -->
+<nav>
+<ul>
+<li class="active"><a href="#">Home</a></li>
+<li><a href="#">About Us</a></li>
+<li><a href="#">Our Products</a></li>
+<li><a href="#">Careers</a></li>
+<li><a href="#">Contact Us</a></li>
+</ul>
+</nav>
+</div>
+
+<div id="header-image-menu">
+
+</div>
+</header>
+
+
+# How to Use CyberDuck
 
 ## Introduction
 
