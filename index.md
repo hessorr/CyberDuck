@@ -3,11 +3,11 @@
  <nav>
 	<header>
             <div>
-                <a"active"><a href="#">Home</a></ul>	| 
-                <a href="/setUp.md">Set Up</a></ul>	| 
-                <a href="#">Connecting to the Student Machine</a></ul>	| 
-                <a href="#">Licensing</a></ul>	| 
-                <a href="#">FAQ/Help</a></ul>	| 
+                <a href="#">Home</a>	| 
+                <a href="/setUp.md">Set Up</a>	| 
+                <a href="/connecting.md">Connecting to the Student Machine</a>	| 
+                <a href="#">Licensing</a>	| 
+                <a href="#">FAQ/Help</a>	| 
             </div>
 	</header>
  </nav>
