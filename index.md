@@ -4,7 +4,6 @@
 	</p>
 
 <nav>
-	<p align="center">
             <div>
                 <a href="/index.md">Home</a>	| 
                 <a href="/setUp.md">Set Up</a>	| 
@@ -12,12 +11,8 @@
                 <a href="/licensing.md">Licensing</a>	| 
                 <a href="/faq.md">FAQ/Help</a>	
             </div>
-	</p>
 	
  </nav>
-<div id="header-image-menu">
-
-</div>
 
 ## Introduction
 ![Unknown-9](https://user-images.githubusercontent.com/91332670/137805319-67ab973d-829f-4b8f-b5a6-987f96dc7fb0.jpeg)
@@ -31,5 +26,7 @@ The only requirement for CyberDuck is owning a computer with access to the stude
 
 ### Contact
 Olivia Hess
-
+<div>
+<a href="/index.md">Home</a>
+</div>
 hessor@appstate.edu
