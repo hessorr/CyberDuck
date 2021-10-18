@@ -6,7 +6,7 @@
 <nav>
             <div>
                 <a href="/index.md">Home</a>	| 
-                <a href="https://github.com/hessorr/hessorr.github.io/blob/d7ddb8ffe87aef262e48bf09b5889f10fbb70c60/setUp.md">Set Up</a>	| 
+                <a href="https://hessorr.github.io/setUp.md">Set Up</a>	| 
                 <a href="/connecting.md">Connecting to the Student Machine</a>	| 
                 <a href="/licensing.md">Licensing</a>	| 
                 <a href="/faq.md">FAQ/Help</a>	
