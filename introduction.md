@@ -3,7 +3,7 @@
 		
 <div id="top-header">
 		
-		Introduction | Set Up | Connecting to the Student Machine | Licensing | FAQ/Help
+		Introduction | [Set Up](/hessor.github.io/setUp.md) | Connecting to the Student Machine | Licensing | FAQ/Help
 </div>
 
 <div id="header-image-menu">
