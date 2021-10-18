@@ -1,11 +1,16 @@
 # CyberDuck
-<header>
-		
-<div id="top-header">
-		
-		Introduction | [Set up](/hessor.github.io/setUp.md) | Connecting to the Student Machine | Licensing | FAQ/Help
-</div>
 
+ <nav>
+	<header>
+            <div>
+                <a"active"><a href="#">Home</a></ul>	| 
+                <a href="/setUp.md">Set Up</a></ul>	| 
+                <a href="#">Connecting to the Student Machine</a></ul>	| 
+                <a href="#">Licensing</a></ul>	| 
+                <a href="#">FAQ/Help</a></ul>	| 
+            </div>
+	</header>
+ </nav>
 <div id="header-image-menu">
 
 </div>
