@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+
+
 <nav>
             <div>
                 <a href="/index.md">Home</a>	| 
@@ -8,3 +12,5 @@
             </div>
 	
  </nav>
+</body>
+</html>
