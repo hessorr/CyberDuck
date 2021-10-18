@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+# How to Use CyberDuck ![Image of Yaktocat](https://images.app.goo.gl/srtJD3n524Lx5o158)
 
-You can use the [editor on GitHub](https://github.com/hessorr/hessorr.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is CyberDuck?
+CyberDuck is a server and cloud storage browser for Mac and Windows. With this, you can easily access files and folders within any server, even secure shell connections (SSH). It is great for use with the student machine, especially if you are just starting to get familiar with command-line tools. CyberDuck creates a seamless transition between local files and server files, making it easy to copy, move, delete, and replace items.
+
 
 ### Markdown
 
