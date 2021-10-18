@@ -4,11 +4,7 @@
 <div id="top-header">
 		
 		Introduction | Set Up | Connecting to the Student Machine | Licensing | FAQ/Help
-<div id="logo">
-			<img src="images/logo.png" />
-</div>
 				
-		<!-- Navigation Menu -->
 <nav>
 <ul>
 <li class="active"><a href="#">Home</a></li>
