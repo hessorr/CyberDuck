@@ -7,9 +7,9 @@
                 <a href="/setUp.md">Set Up</a>	| 
                 <a href="/connecting.md">Connecting to the Student Machine</a>	| 
                 <a href="#">Licensing</a>	| 
-                <a href="#">FAQ/Help</a>	| 
+                <a href="#">FAQ/Help</a>	
             </div>
-	</header>
+	
  </nav>
 <div id="header-image-menu">
 
