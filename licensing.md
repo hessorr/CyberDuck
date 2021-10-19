@@ -1,1 +1,3 @@
-licensing
+---
+permalink: licensing
+---
