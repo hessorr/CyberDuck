@@ -1,5 +1,5 @@
 ---
-permalink: /Main/
+permalink: /index/
 ---
 # CyberDuck 
 <p align="center">
