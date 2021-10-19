@@ -9,11 +9,11 @@ title: Set Up
 
 <nav>
             <div>
-                <a href="/index.md">Home</a>	| 
-                <a href="/setUp.md">Set Up</a>	| 
-                <a href="/connecting.md">Connecting to the Student Machine</a>	| 
-                <a href="/licensing.md">Licensing</a>	| 
-                <a href="/faq.md">FAQ/Help</a>	
+                <a href="https://hessorr.github.io/CyberDuck/index/">Home</a>	| 
+                <a href="https://hessorr.github.io/CyberDuck/setup/">Set Up</a>	| 
+                <a href="https://hessorr.github.io/CyberDuck/connecting/">Connecting to the Student Machine</a>	| 
+                <a href="https://hessorr.github.io/CyberDuck/licensing/">Licensing</a>	| 
+                <a href="https://hessorr.github.io/CyberDuck/faq/">FAQ/Help</a>	
             </div>
 	
  </nav>
