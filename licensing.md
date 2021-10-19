@@ -1,5 +1,5 @@
 ---
-permalink: licensing
+permalink: licensing 
 ---
 
 # Licensing
