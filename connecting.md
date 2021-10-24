@@ -41,8 +41,6 @@ permalink: /connecting/
 <img width="500" alt="Screen Shot 2021-10-24 at 4 19 44 PM" src="https://user-images.githubusercontent.com/91332670/138612165-6fe7e1d6-aac2-44f5-8b83-22f2fa613a2b.png"> 
 
 
-### Moving Files
-
  
 ### Contact
 Olivia Hess
