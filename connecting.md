@@ -15,22 +15,17 @@ permalink: /connecting/
                 <a href="https://hessorr.github.io/CyberDuck/connecting/">Connecting to the Student Machine</a>	| 
                 <a href="https://hessorr.github.io/CyberDuck/licensing/">Licensing</a>	| 
                 <a href="https://hessorr.github.io/CyberDuck/faq/">FAQ/Help</a>	
-		    <br></br>
             </div>
 	
  </nav>
  
- 
-[Enable the Connection](#markdown-header-enable-the-connection)
-
-[Moving Files](#markdown-header-moving-files)
  
 ### Enable the Connection
 
 
 	
 <li>Open CyberDuck. In the top right corner, click <strong> Open Connection</strong></li>
-	<img width="500" alt="Screen Shot 2021-10-24 at 4 18 33 PM" src="https://user-images.githubusercontent.com/91332670/138611676-ca60329d-3171-4b5a-93b3-a77eac33c0ae.png">
+<img width="500" alt="Screen Shot 2021-10-24 at 4 18 33 PM" src="https://user-images.githubusercontent.com/91332670/138611676-ca60329d-3171-4b5a-93b3-a77eac33c0ae.png">
 
 <li>Click the drop down menu at the top and choose <stron>SFTP (SSH File Transfer Protocol)</strong></li>
 	<img width="500" alt="Screen Shot 2021-10-24 at 4 19 09 PM" src="https://user-images.githubusercontent.com/91332670/138611817-ba0956f2-30ec-4f19-8272-52da7ad71187.png">	
