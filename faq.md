@@ -15,5 +15,11 @@ permalink: /faq/
                 <a href="https://hessorr.github.io/CyberDuck/connecting/">Connecting to the Student Machine</a>	| 
                 <a href="https://hessorr.github.io/CyberDuck/licensing/">Licensing</a>	| 
                 <a href="https://hessorr.github.io/CyberDuck/faq/">FAQ/Help</a>	
-            </div>
-	
+	</div>
+</nav>
+
+### What do I do if I don't know my password?	
+For troubleshooting or problems accessing the student server, please contact Tim Tron (attrontw@appstate.edu), the System Administrator for AppState.
+
+### Where should I go for more documentation on CyberDuck?
+Visit their [FSTP page](https://trac.cyberduck.io/wiki/help/en/howto/sftp) for more information on connections!
