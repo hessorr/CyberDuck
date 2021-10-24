@@ -40,6 +40,13 @@ permalink: /connecting/
 <li>In the bottom left you will see <strong> Authenticating as <i>your username</i></strong>. Once this loads, you have succesfully connected to the student machine! You can now copy, delte, and move files as you please!</li>
 <img width="500" alt="Screen Shot 2021-10-24 at 4 19 44 PM" src="https://user-images.githubusercontent.com/91332670/138612165-6fe7e1d6-aac2-44f5-8b83-22f2fa613a2b.png"> 
 
+You can copy whole file directories, make new folders, or just move in single files. This what it will look like when it has finished a transfer:
+
+<img width="500" alt="Screen Shot 2021-10-24 at 4 20 33 PM" src="https://user-images.githubusercontent.com/91332670/138617187-fdd0b36a-6810-4624-a932-3ff3dd66c859.png">
+
+<img width="400" alt="Screen Shot 2021-10-24 at 4 20 47 PM" src="https://user-images.githubusercontent.com/91332670/138617209-8f8cd44a-72ca-44eb-b526-269a91c31b34.png">
+
+
 
  
 ### Contact
