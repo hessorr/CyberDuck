@@ -19,7 +19,7 @@ title: Set Up
  </nav>
  
 ### Download
-<li>Navigate to the <a href="https://cyberduck.io/download/">CyberDuck website</a> for the free version, and click Download with the compatible package version for your computer.</li><br></br>
+<li>Navigate to the <a href="https://cyberduck.io/download/">CyberDuck website</a> for the free version, and click Download with the compatible package version for your computer.</li><br>
 
 <li>CyberDuck will automatically download as a .app and ready to use. Move the application to wherever you want to access it, and double click to open it. It is recommended to keep it in your Applications folder.
 	</li>
