@@ -25,7 +25,7 @@ For troubleshooting or problems accessing the student server, please contact Tim
 Visit their [FSTP page](https://trac.cyberduck.io/wiki/help/en/howto/sftp) for more information on connections!
 
 ### Where can I see bugs or submit bug requests?
-CyberDuck has a [Trac Ticket System] (https://trac.cyberduck.io/wiki/TracTickets) page where you can submit bugs found or software requests. 
+CyberDuck has a [Trac Ticket System](https://trac.cyberduck.io/wiki/TracTickets) page where you can submit bugs found or software requests. 
 
 ### How long does it take for my file changes to come into effect?
 Transfers and changes are immediate! You can compile and run code as soon as the transfer is finished.
