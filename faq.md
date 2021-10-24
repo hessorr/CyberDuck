@@ -23,3 +23,9 @@ For troubleshooting or problems accessing the student server, please contact Tim
 
 ### Where should I go for more documentation on CyberDuck?
 Visit their [FSTP page](https://trac.cyberduck.io/wiki/help/en/howto/sftp) for more information on connections!
+
+### How long does it take for my file changes to come into effect?
+Transfers and changes are immediate! You can compile and run code as soon as the transfer is finished.
+
+### What is the popup when I close the app?
+CyberDuck is a free software, but they take donations or ask to download the paid version to continue their research and applications! This will show up everytime, but you can click not now and still continue use. 
