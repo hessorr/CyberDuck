@@ -34,7 +34,6 @@ title: Set Up
  <img width="300" alt="Screen Shot 2021-10-15 at 5 27 34 PM" src="https://user-images.githubusercontent.com/91332670/137823892-a76972df-114a-406a-8637-5951ac0e3eec.png">
 
 
-</li>
 
 ### Contact
 Olivia Hess
