@@ -21,6 +21,7 @@ permalink: /connecting/
  
 ### Enable the Connection
 <nav>
+	
 <li>Open CyberDuck. In the top right corner, click <strong> Open Connection</strong></li>
 	<img width="500" alt="Screen Shot 2021-10-24 at 4 18 33 PM" src="https://user-images.githubusercontent.com/91332670/138611676-ca60329d-3171-4b5a-93b3-a77eac33c0ae.png">
 
