@@ -28,7 +28,7 @@ CyberDuck will automatically download as a .app and ready to use. Move the appli
 	
 
 	
-<li>NOTE: If you are on a Mac device, the following warning will appear after your computer has screened it for viruses. Click **Open** and you are ready to open an SSH connection. 
+<li>NOTE: If you are on a Mac device, the following warning will appear after your computer has screened it for viruses. Click <strong>Open</strong> and you are ready to open an <a href="https://hessorr.github.io/CyberDuck/licensing/">SSH connection</a>. 
 	</li>
 	
  <img width="300" alt="Screen Shot 2021-10-15 at 5 27 34 PM" src="https://user-images.githubusercontent.com/91332670/137823892-a76972df-114a-406a-8637-5951ac0e3eec.png">
