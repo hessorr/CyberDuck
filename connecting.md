@@ -33,7 +33,7 @@ permalink: /connecting/
 <li>Next, type "student2.cs.appstate.edu" in the server field</li>
 <img width="500" alt="Screen Shot 2021-10-24 at 4 19 18 PM" src="https://user-images.githubusercontent.com/91332670/138611867-d8deaff4-6fb7-42d6-9aaa-a5f46b44b543.png">
 
-<li> Enter your AppState student username and the Student Machine specific password.<br><i>Note: Usually this will be your Banner ID. If you experience issues signing in, navigate to the <a href="https://hessorr.github.io/CyberDuck/faq/">FAQ/Help page </a>for resources.</i></br></li>
+<li> Enter your AppState student username and the Student Machine specific password.<br><i>Note: Usually this will be your Banner ID. If you experience issues signing in, navigate to the <a href="https://hessorr.github.io/CyberDuck/faq/">FAQ/Help page </a>for resources.</i></li>
 <img width="500" alt="Screen Shot 2021-10-24 at 4 19 35 PM" src="https://user-images.githubusercontent.com/91332670/138612007-0bfae860-5ca4-4690-b5f9-e2fb51f23d72.png">
 	
 <li>In the bottom left you will see <strong> Authenticating as <i>your username</i></strong>. Once this loads, you have succesfully connected to the student machine! You can now copy, delte, and move files as you please!</li>
