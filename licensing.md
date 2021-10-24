@@ -16,6 +16,7 @@ permalink: /licensing/
                 <a href="https://hessorr.github.io/CyberDuck/licensing/">Licensing</a>	| 
                 <a href="https://hessorr.github.io/CyberDuck/faq/">FAQ/Help</a>	
             </div>
+	<br>
 	
  </nav>
  
