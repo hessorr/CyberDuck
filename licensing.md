@@ -22,5 +22,5 @@ permalink: /licensing/
  
  CyberDuck is a Swiss made application created in 2002 and still being updated today. 
  This program is a free software, and available for any user, distribution, or modifications under their licensing. 
- Vist their [licensing page](https://cyberduck.io/license/) for more information!
+ Visit their [licensing page](https://cyberduck.io/license/) for more information!
 
