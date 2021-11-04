@@ -29,7 +29,4 @@ The only requirement for CyberDuck is owning a computer with access to the stude
 
 ### Contact
 Olivia Hess
-<div>
-<a href="/index.md">Home</a>
-</div>
 hessor@appstate.edu
